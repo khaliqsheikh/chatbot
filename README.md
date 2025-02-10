@@ -1,4 +1,4 @@
-# Technology Trends AI Chatbot
+# Technology Trends AI Chatbot `mks
 
 This repository contains a **Retrieval-Augmented Generation (RAG) full-stack chatbot application** built with **Python, FastAPI, Redis, React and OpenAI's GPT-4o.** The chatbot specializes in answering questions about new technology trends, powered by the latest reports from leading institutions such as the World Bank, World Economic Forum, McKinsey, Deloitte, and OECD.
 
